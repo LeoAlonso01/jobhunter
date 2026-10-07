@@ -1,0 +1,52 @@
+{
+    "name": "Leonardo Daniel",
+    "target_roles": [
+        "Python Developer",
+        "Backend Developer",
+        "AI Automation Developer",
+        "AI Agent Developer",
+        "Data Analyst"
+    ],
+    "work_preferences": {
+        "remote": true,
+        "minimum_monthly_salary_usd": 1500
+    },
+    "programming_languages": [
+        "Python",
+        "JavaScript",
+        "C#",
+        "GDScript",
+        "SQL",
+        "C",
+        "Bash"
+    ],
+    "backend": [
+        "FastAPI",
+        "Django",
+        "Flask",
+        "Node.js"
+    ],
+    "frontend": [
+        "React",
+        "Next.js"
+    ],
+    "databases": [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Firebase",
+        "Supabase"
+    ],
+    "devops": [
+        "Docker",
+        "Docker Compose",
+        "Git",
+        "Linux"
+    ],
+    "other": [
+        "Godot",
+        "OpenCV",
+        "MediaPipe",
+        "REST APIs"
+    ]
+}

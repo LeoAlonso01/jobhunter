@@ -1,0 +1,15 @@
+{
+    "title": "Python Backend Developer",
+    "company": "Tech Example",
+    "description": "We are looking for a remote Python Backend Developer to build and maintain APIs and backend services. The candidate will work with FastAPI, PostgreSQL, Docker and AWS.",
+    "remote": true,
+    "salary_min_usd": 2000,
+    "salary_max_usd": 2500,
+    "required_skills": [
+        "Python",
+        "FastAPI",
+        "PostgreSQL",
+        "Docker",
+        "AWS"
+    ]
+}
