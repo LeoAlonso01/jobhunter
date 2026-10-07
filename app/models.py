@@ -34,3 +34,7 @@ class JobAnalysis(BaseModel):
     strengths: list[str]
     concerns: list[str]
     reasoning: str
+
+class AgentDecision(BaseModel):
+    decision: str
+    reason: str
